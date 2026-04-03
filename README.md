@@ -11,8 +11,8 @@
 
 ### Application Security Researcher · Bug Bounty Hunter · CVE Author
 
-[![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Active-success?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/sanjayan)
-[![AppSec](https://img.shields.io/badge/AppSec-Researcher-blueviolet?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/sanjayan)
+[![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Active-success?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/SanjayanV)
+[![AppSec](https://img.shields.io/badge/AppSec-Researcher-blueviolet?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/SanjayanV)
 
 </div>
 
@@ -21,9 +21,9 @@
 ## `whoami`
 
 ```bash
-$ cat /etc/passwd | grep sanjayan
+$ cat /etc/passwd | grep SanjayanV
 
-sanjayan:x:1337:1337:AppSec Researcher,Bug Bounty Hunter,CVE Author:/home/sanjayan:/bin/zsh
+SanjayanV:x:1337:1337:AppSec Researcher,Bug Bounty Hunter,CVE Author:/home/SanjayanV:/bin/zsh
 ```
 
 > I break things before the bad guys do.  
@@ -35,7 +35,7 @@ sanjayan:x:1337:1337:AppSec Researcher,Bug Bounty Hunter,CVE Author:/home/sanjay
 
 ## ⚙️ Projects
 
-### 🔐 [SecureAuth Framework](https://github.com/sanjayan/secureauth)
+### 🔐 [SecureAuth Framework](https://github.com/SanjayanV/secureauth)
 > Production-grade authentication library in **Go**
 
 A fully open-source auth framework implementing JWT, session-based auth, OAuth 2.0/OIDC, and API key management — designed as both a portfolio piece and a teaching resource for secure implementation patterns.
@@ -54,7 +54,7 @@ A fully open-source auth framework implementing JWT, session-based auth, OAuth 2
 
 ---
 
-### 🛡️ [ChainSentry](https://github.com/sanjayan/chainsentry) *(In Development)*
+### 🛡️ [ChainSentry](https://github.com/SanjayanV/chainsentry) *(In Development)*
 > Supply chain security monitoring tool
 
 Built on the methodology that discovered CVE-2026-0933 — ChainSentry detects malicious patterns in lockfiles, dependency manifests, and CI/CD pipeline configs before they reach your build.
@@ -122,10 +122,9 @@ focus = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayan)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sanjayan)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/sanjayan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayan@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjayan-v-119957326/)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/0x7152-h_nt3r)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayan.v@outlook.com)
 
 </div>
 
@@ -137,6 +136,6 @@ focus = {
 "Security is not a product, but a process." — Bruce Schneier
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sanjayan&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=SanjayanV&color=blueviolet&style=flat-square)
 
 </div>
