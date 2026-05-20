@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### Application Security Researcher · Bug Bounty Hunter · CVE Author
+### Application Security Researcher · Bug Bounty Hunter 
 
 [![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Active-success?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/SanjayanV)
 [![AppSec](https://img.shields.io/badge/AppSec-Researcher-blueviolet?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/SanjayanV)
@@ -23,7 +23,7 @@
 ```bash
 $ cat /etc/passwd | grep SanjayanV
 
-SanjayanV:x:1337:1337:AppSec Researcher,Bug Bounty Hunter,CVE Author:/home/SanjayanV:/bin/zsh
+SanjayanV:x:1337:1337:AppSec Researcher,Bug Bounty Hunter:/home/SanjayanV:/bin/zsh
 ```
 
 > I break things before the bad guys do.  
