@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### Application Security Researcher · Bug Bounty Hunter 
+### Application Security Engineer · Security Researcher 
 
 [![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Active-success?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/SanjayanV)
 [![AppSec](https://img.shields.io/badge/AppSec-Researcher-blueviolet?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/SanjayanV)
@@ -23,11 +23,11 @@
 ```bash
 $ cat /etc/passwd | grep SanjayanV
 
-SanjayanV:x:1337:1337:AppSec Researcher,Bug Bounty Hunter:/home/SanjayanV:/bin/zsh
+SanjayanV:x:1337:1337:AppSec Researcher,Security Researcher:/home/SanjayanV:/bin/zsh
 ```
 
 > I break things before the bad guys do.  
-> Application security researcher focused on **supply chain attacks**, **web exploitation**, and **CI/CD security**. I hunt bugs, write CVEs, and build tools that make attack surfaces visible.
+> Application security researcher focused on **supply chain attacks**, **web exploitation**, **CI/CD security**, and **Mobile Security**. I hunt bugs, write CVEs, and build tools that make attack surfaces visible.
 
 ---
 
@@ -35,7 +35,7 @@ SanjayanV:x:1337:1337:AppSec Researcher,Bug Bounty Hunter:/home/SanjayanV:/bin/z
 
 ## ⚙️ Projects
 
-### 🔐 [SecureAuth Framework](https://github.com/SanjayanV/secureauth)
+### 🔐 [Authcentry](https://github.com/SanjayanV/Authcentry)
 > Production-grade authentication library in **Go**
 
 A fully open-source auth framework implementing JWT, session-based auth, OAuth 2.0/OIDC, and API key management — designed as both a portfolio piece and a teaching resource for secure implementation patterns.
